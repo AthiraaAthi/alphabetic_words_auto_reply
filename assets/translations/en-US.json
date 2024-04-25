@@ -3,10 +3,562 @@
     "not_found_message": "The searched item is not found in our database",
     "items": [
         {
+            "name": "a"
+        },
+        {
+            "name": "an"
+        },
+        {
+            "name": "ability"
+        },
+        {
+            "name": "able"
+        },
+        {
+            "name": "about"
+        },
+        {
+            "name": "abroad"
+        },
+        {
+            "name": "above"
+        },
+        {
+            "name": "absent"
+        },
+        {
+            "name": "aabsolutely"
+        },
+        {
+            "name": "accent"
+        },
+        {
+            "name": "accept"
+        },
+        {
+            "name": "access"
+        },
+        {
+            "name": "accident"
+        },
+        {
+            "name": "acomodation"
+        },
+        {
+            "name": "accompany"
+        },
+        {
+            "name": "according to"
+        },
+        {
+            "name": "account"
+        },
+        {
+            "name": "accountant"
+        },
+        {
+            "name": "accurate"
+        },
+        {
+            "name": "ache"
+        },
+        {
+            "name": "achieve"
+        },
+        {
+            "name": "across"
+        },
+        {
+            "name": "act"
+        },
+        {
+            "name": "action"
+        },
+        {
+            "name": "active"
+        },
+        {
+            "name": "activity"
+        },
+        {
+            "name": "actor"
+        },
+        {
+            "name": "actress"
+        },
+        {
+            "name": "actually"
+        },
+        {
+            "name": "ad"
+        },
+        {
+            "name": "add"
+        },
+        {
+            "name": "addition"
+        },
+        {
+            "name": "admire"
+        },
+        {
+            "name": "admission"
+        },
+        {
+            "name": "admit"
+        },
+        {
+            "name": "adult"
+        },
+        {
+            "name": "advance"
+        },
+        {
+            "name": "advanced"
+        },
+        {
+            "name": "advantage"
+        },
+        {
+            "name": "adventure"
+        },
+        {
+            "name": "advert"
+        },
+        {
+            "name": "advertise"
+        },
+        {
+            "name": "advertisement"
+        },
+        {
+            "name": "advice"
+        },
+        {
+            "name": "advise"
+        },
+        {
+            "name": "aeroplane"
+        },
+        {
+            "name": "afford"
+        },
+        {
+            "name": "afraid"
+        },
+        {
+            "name": "after"
+        },
+        {
+            "name": "afternoon"
+        },
+        {
+            "name": "afterwards"
+        },
+        {
+            "name": "again"
+        },
+        {
+            "name": "against"
+        },
+        {
+            "name": "age"
+        },
+        {
+            "name": "aged"
+        },
+        {
+            "name": "agency"
+        },
+        {
+            "name": "ago"
+        },
+        {
+            "name": "agree"
+        },
+        {
+            "name": "ahead"
+        },
+        {
+            "name": "aim"
+        },
+        {
+            "name": "air"
+        },
+        {
+            "name": "air conditioning"
+        },
+        {
+            "name": "air force"
+        },
+        {
+            "name": "airline"
+        },
+        {
+            "name": "airport"
+        },
+        {
+            "name": "alarm"
+        },
+        {
+            "name": "alarm clock"
+        },
+        {
+            "name": "album"
+        },
+        {
+            "name": "alike"
+        },
+        {
+            "name": "alive"
+        },
+        {
+            "name": "all"
+        },
+        {
+            "name": "alright"
+        },
+        {
+            "name": "all right"
+        },
+        {
+            "name": "allow"
+        },
+        {
+            "name": "almost"
+        },
+        {
+            "name": "alone"
+        },
+        {
+            "name": "along"
+        },
+        {
+            "name": "aloud"
+        },
+        {
+            "name": "alphabet"
+        },
+        {
+            "name": "already"
+        },
+        {
+            "name": "also"
+        },
+        {
+            "name": "although"
+        },
+        {
+            "name": "altogether"
+        },
+        {
+            "name": "always"
+        },
+        {
+            "name": "a.m"
+        },
+        {
+            "name": "amazed"
+        },
+        {
+            "name": "amazing"
+        },
+        {
+            "name": "ambition"
+        },
+        {
+            "name": "ambulance"
+        },
+        {
+            "name": "among"
+        },
+        {
+            "name": "amongst"
+        },
+        {
+            "name": "amount"
+        },
+        {
+            "name": "amusing"
+        },
+        {
+            "name": "an"
+        },
+        {
+            "name": "ancient"
+        },
+        {
+            "name": "and"
+        },
+        {
+            "name": "angry"
+        },
+        {
+            "name": "animal"
+        },
+        {
+            "name": "ankle"
+        },
+        {
+            "name": "anniversary"
+        },
+        {
+            "name": "announce"
+        },
+        {
+            "name": "announcement"
+        },
+        {
+            "name": "annoy"
+        },
+        {
+            "name": "annual"
+        },
+        {
+            "name": "another"
+        },
+        {
+            "name": "another"
+        },
+        {
+            "name": "answer"
+        },
+        {
+            "name": "answerphone"
+        },
+        {
+            "name": "ant"
+        },
+        {
+            "name": "antique"
+        },
+        {
+            "name": "anxious"
+        },
+        {
+            "name": "any"
+        },
+        {
+            "name": "anybody"
+        },
+        {
+            "name": "anymore"
+        },
+        {
+            "name": "anyone"
+        },
+        {
+            "name": "anything"
+        },
+        {
+            "name": "anyway"
+        },
+        {
+            "name": "anywhere"
+        },
+        {
+            "name": "apart"
+        },
+        {
+            "name": "apart from"
+        },
+        {
+            "name": "apartment"
+        },
+        {
+            "name": "apartment building"
+        },
+        {
+            "name": "apologise"
+        },
+        {
+            "name": "apology"
+        },
+        {
+            "name": "appear"
+        },
+        {
+            "name": "apperance"
+        },
+        {
             "name": "apple"
         },
         {
-            "name": "orange"
+            "name": "application"
+        },
+        {
+            "name": "apply"
+        },
+        {
+            "name": "appointment"
+        },
+        {
+            "name": "approach"
+        },
+        {
+            "name": "approve"
+        },
+        {
+            "name": "architect"
+        },
+        {
+            "name": "architecture"
+        },
+        {
+            "name": "area"
+        },
+        {
+            "name": "argue"
+        },
+        {
+            "name": "argument"
+        },
+        {
+            "name": "arm"
+        },
+        {
+            "name": "armchair"
+        },
+        {
+            "name": "army"
+        },
+        {
+            "name": "around"
+        },
+        {
+            "name": "arrange"
+        },
+        {
+            "name": "arrangement"
+        },
+        {
+            "name": "arrest"
+        },
+        {
+            "name": "arrival"
+        },
+        {
+            "name": "arrive"
+        },
+        {
+            "name": "art"
+        },
+        {
+            "name": "article"
+        },
+        {
+            "name": "artist"
+        },
+        {
+            "name": "as"
+        },
+        {
+            "name": "ashamed"
+        },
+        {
+            "name": "ask"
+        },
+        {
+            "name": "asleep"
+        },
+        {
+            "name": "aspirin"
+        },
+        {
+            "name": "assistant"
+        },
+        {
+            "name": "as well"
+        },
+        {
+            "name": "at"
+        },
+        {
+            "name": "@"
+        },
+        {
+            "name": "at all"
+        },
+        {
+            "name": "at first"
+        },
+        {
+            "name": "athlete"
+        },
+        {
+            "name": "athletics"
+        },
+        {
+            "name": "at last"
+        },
+        {
+            "name": "at least"
+        },
+        {
+            "name": "atmosphere"
+        },
+        {
+            "name": "at once"
+        },
+        {
+            "name": "at present"
+        },
+        {
+            "name": "attach"
+        },
+        {
+            "name": "attack"
+        },
+        {
+            "name": "attempt"
+        },
+        {
+            "name": "attend"
+        },
+        {
+            "name": "attention"
+        },
+        {
+            "name": "at the same time"
+        },
+        {
+            "name": "attittude"
+        },
+        {
+            "name": "attract"
+        },
+        {
+            "name": "attraction"
+        },
+        {
+            "name": "attractive"
+        },
+        {
+            "name": "audience"
+        },
+        {
+            "name": "aunt"
+        },
+        {
+            "name": "author"
+        },
+        {
+            "name": "autumn"
+        },
+        {
+            "name": "available"
+        },
+        {
+            "name": "average"
+        },
+        {
+            "name": "avoid"
+        },
+        {
+            "name": "awake"
+        },
+        {
+            "name": "awful"
         }
     ]
 }

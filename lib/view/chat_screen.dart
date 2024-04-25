@@ -21,8 +21,8 @@ class _ChatScreenState extends State<ChatScreen> {
   }
 
   Future loadItems() async {
-    String data = await DefaultAssetBundle.of(context)
-        .loadString("assets/translations/en-US.json");
+    String data = await DefaultAssetBundle.of(context).loadString(
+        "assets/translations/en-US.json"); //here when we have to translate just uncommand the selected language and apply here in the place of "en-Us"
     setState(() {
       _items = json.decode(data)["items"];
     });
@@ -61,7 +61,8 @@ class _ChatScreenState extends State<ChatScreen> {
 
     String translatedResult;
     if (result != null) {
-      translatedResult = "${result["name"]}";
+      translatedResult =
+          "Great! the searched Item ${result["name"]} is present in our database";
     } else {
       translatedResult = "not_found_message".tr();
     }
