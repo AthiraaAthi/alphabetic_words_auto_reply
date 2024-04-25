@@ -1,1 +1,12 @@
-{}
+{
+    "app_bar_text": "Search Anything",
+    "not_found_message": "The searched item is not found in our database",
+    "items": [
+        {
+            "name": "apple"
+        },
+        {
+            "name": "orange"
+        }
+    ]
+}
