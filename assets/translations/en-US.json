@@ -2833,6 +2833,60 @@
         },
         {
             "name": "eye"
+        },
+        {
+            "name": "face"
+        },
+        {
+            "name": "face to face"
+        },
+        {
+            "name": "face-to-face"
+        },
+        {
+            "name": "facilities"
+        },
+        {
+            "name": "fact"
+        },
+        {
+            "name": "factory"
+        },
+        {
+            "name": "fail"
+        },
+        {
+            "name": "fair"
+        },
+        {
+            "name": "fairly"
+        },
+        {
+            "name": "fall"
+        },
+        {
+            "name": "false"
+        },
+        {
+            "name": "familiar"
+        },
+        {
+            "name": "family"
+        },
+        {
+            "name": "fan"
+        },
+        {
+            "name": "fancy"
+        },
+        {
+            "name": "fantastic"
+        },
+        {
+            "name": "far"
+        },
+        {
+            "name": "fare"
         }
     ]
 }
