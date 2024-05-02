@@ -8607,6 +8607,39 @@
             "name": "weak"
         },
         {
+            "name": "weak out"
+        },
+        {
+            "name": "weather"
+        },
+        {
+            "name": "weather forecast"
+        },
+        {
+            "name": "web"
+        },
+        {
+            "name": "webcam"
+        },
+        {
+            "name": "webpage"
+        },
+        {
+            "name": "website"
+        },
+        {
+            "name": "wedding"
+        },
+        {
+            "name": "week"
+        },
+        {
+            "name": "weekday"
+        },
+        {
+            "name": "weekend"
+        },
+        {
             "name": "w"
         }
     ]
