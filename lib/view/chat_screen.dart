@@ -87,7 +87,17 @@ class _ChatScreenState extends State<ChatScreen> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text("app_bar_text".tr()),
+        title: Row(
+          mainAxisAlignment: MainAxisAlignment.center,
+          children: [
+            Text("app_bar_text".tr()),
+            SizedBox(
+              width: 5,
+            ),
+            Icon(Icons.sentiment_very_satisfied),
+          ],
+        ),
+        centerTitle: true,
       ),
       body: Column(
         children: [
@@ -97,16 +107,15 @@ class _ChatScreenState extends State<ChatScreen> {
                   sendOnEnter: true,
                   sendButtonBuilder: (onSend) {
                     return Container(
-                      // Customize the send button appearance here
                       margin: EdgeInsets.all(8),
                       decoration: BoxDecoration(
-                        color: Colors.blue, // Change to your desired color
+                        color: Colors.blue,
                         shape: BoxShape.circle,
                       ),
                       child: IconButton(
                         icon: Icon(Icons.send),
                         onPressed: onSend,
-                        color: Colors.white, // Change to your desired color
+                        color: Colors.white,
                       ),
                     );
                   },
