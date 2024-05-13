@@ -93,9 +93,28 @@ class _ChatScreenState extends State<ChatScreen> {
         children: [
           Expanded(
             child: DashChat(
+              inputOptions: InputOptions(
+                  sendOnEnter: true,
+                  sendButtonBuilder: (onSend) {
+                    return Container(
+                      // Customize the send button appearance here
+                      margin: EdgeInsets.all(8),
+                      decoration: BoxDecoration(
+                        color: Colors.blue, // Change to your desired color
+                        shape: BoxShape.circle,
+                      ),
+                      child: IconButton(
+                        icon: Icon(Icons.send),
+                        onPressed: onSend,
+                        color: Colors.white, // Change to your desired color
+                      ),
+                    );
+                  },
+                  inputTextStyle: TextStyle(color: Colors.black)),
               currentUser: _currentUser,
               messageOptions: const MessageOptions(
-                currentUserContainerColor: Color.fromARGB(255, 153, 173, 253),
+                currentUserTextColor: Colors.black,
+                currentUserContainerColor: Color.fromARGB(255, 105, 241, 128),
                 containerColor: Color.fromARGB(255, 221, 215, 215),
                 textColor: Colors.black,
               ),
